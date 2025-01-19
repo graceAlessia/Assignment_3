@@ -1,0 +1,73 @@
+[
+    {
+      "bookID": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "genre": "Fiction"
+    },
+    {
+      "bookID": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genre": "Dystopian"
+    },
+    {
+      "bookID": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Fiction"
+    },
+    {
+      "bookID": 4,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "genre": "Fiction"
+    },
+    {
+      "bookID": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "year": 1813,
+      "genre": "Romance"
+    },
+    {
+      "bookID": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "genre": "Fantasy"
+    },
+    {
+      "bookID": 7,
+      "title": "Harry Potter and the Sorcerer’s Stone",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "genre": "Fantasy"
+    },
+    {
+      "bookID": 8,
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "year": 1988,
+      "genre": "Science"
+    },
+    {
+      "bookID": 9,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "year": -500,
+      "genre": "Philosophy"
+    },
+    {
+      "bookID": 10,
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "year": 2018,
+      "genre": "Biography"
+    }
+  ]
+  

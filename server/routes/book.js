@@ -8,7 +8,7 @@ router.get("/", bookController.getBookList);
 
 router.post("/", bookController.addNewBook);
 
-router.get("/:id", bookController.searchBook);
+router.get("/:id", bookController.bookDetail);
 
 router.delete("/:id", bookController.deleteBook);
 

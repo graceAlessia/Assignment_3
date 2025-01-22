@@ -31,7 +31,7 @@ exports.addNewBook = async function (req, res) {
 };
 
 //Search Books
-exports.searchBook = async function (req, res) {
+exports.bookDetail = async function (req, res) {
   const itemID = parseInt(req.params.id);
   const item = await Book.findOne({
     bookID: itemID, // Use bookID to match schema
